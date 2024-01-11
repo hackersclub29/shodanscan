@@ -3,7 +3,7 @@ import time
 import os
 
 # Hardcoded Shodan API key
-SHODAN_API_KEY = "eUbNrLeAxzXX36zNtCQhkNjLMr1HDkPY"
+SHODAN_API_KEY = "provide your shodan api key here"
 
 # Function to query Shodan for an IP
 def query_shodan(ip):
